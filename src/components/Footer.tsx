@@ -10,7 +10,7 @@ export const Footer = () => {
       className="py-8 px-4 border-t border-border bg-card/50"
     >
       <div className="container max-w-6xl">
-        <div className="flex flex-col md:flex-row items-center justify-between gap-4">
+        <div className="flex flex-col md:flex-row items-center center gap-4">
           <p className="text-muted-foreground text-sm">
             © {new Date().getFullYear()} Shweta Kumari. All rights reserved.
           </p>
