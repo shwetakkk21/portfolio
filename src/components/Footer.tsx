@@ -14,9 +14,6 @@ export const Footer = () => {
           <p className="text-muted-foreground text-sm">
             © {new Date().getFullYear()} Shweta Kumari. All rights reserved.
           </p>
-          <p className="text-muted-foreground text-sm flex items-center gap-1">
-            Made with <Heart size={14} className="text-secondary fill-secondary" /> and React
-          </p>
         </div>
       </div>
     </motion.footer>
